@@ -25,7 +25,7 @@ A collection of ASCII art and toxic messages for Valorant chat. Create, save, an
 - Local Storage for data persistence
 
 ## 🚀 Quick Start
-1. Visit [Art of Toxic](https://github.com/DiiwzZ/art-of-toxic)
+1. Visit [Art of Toxic](https://diiwzz.github.io/art-of-toxic/)
 2. Choose between ASCII Art or Text section
 3. Use existing content or create your own
 4. Click copy button to use in Valorant chat
